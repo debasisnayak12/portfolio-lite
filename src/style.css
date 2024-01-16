@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 8px;
+}
+.menu a{
+    color: tomato;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.about h1{
+    text-align: center;
+}
+.about img {
+    display: block;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
